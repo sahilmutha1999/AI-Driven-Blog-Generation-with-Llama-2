@@ -1,7 +1,5 @@
 # AI-Driven Blog Generation with Llama-2
 
-![Llama-2](https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/vocab.json)
-
 ## Overview
 
 This project utilizes Llama-2, a state-of-the-art language model, to generate blog content automatically. By providing a topic, word count, and target audience, users can generate customized blog posts effortlessly.
